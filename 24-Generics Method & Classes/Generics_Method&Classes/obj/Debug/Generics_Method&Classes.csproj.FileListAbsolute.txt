@@ -1,0 +1,7 @@
+D:\C#\24-Generics Method & Classes\Generics_Method&Classes\obj\Debug\Generics_Method&Classes.csproj.AssemblyReference.cache
+D:\C#\24-Generics Method & Classes\Generics_Method&Classes\obj\Debug\Generics_Method&Classes.csproj.CoreCompileInputs.cache
+D:\C#\24-Generics Method & Classes\Generics_Method&Classes\bin\Debug\Generics_Method&Classes.exe.config
+D:\C#\24-Generics Method & Classes\Generics_Method&Classes\bin\Debug\Generics_Method&Classes.exe
+D:\C#\24-Generics Method & Classes\Generics_Method&Classes\bin\Debug\Generics_Method&Classes.pdb
+D:\C#\24-Generics Method & Classes\Generics_Method&Classes\obj\Debug\Generics_Method&Classes.exe
+D:\C#\24-Generics Method & Classes\Generics_Method&Classes\obj\Debug\Generics_Method&Classes.pdb
